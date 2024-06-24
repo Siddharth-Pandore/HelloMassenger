@@ -1,2 +1,2 @@
 # HelloMassenger
-A React messaging app
+A React massaging app
